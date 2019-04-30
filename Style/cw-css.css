@@ -213,22 +213,22 @@ body{
 	background-color:white;
 }
 #ocho{
-	background-image: url(../Images/ochomap.jpg);
+	background-image: url(../Images/ochomap.JPG);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 #kgn{
-	background-image: url(../Images/kgnmap.jpg);
+	background-image: url(../Images/kgnmap.JPG);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 #west{
-	background-image: url(../Images/westmap.jpg);
+	background-image: url(../Images/westmap.JPG);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 #mobay{
-	background-image: url(../Images/mobaymap.jpg);
+	background-image: url(../Images/mobaymap.JPG);
 	background-repeat: no-repeat;
 	background-position: center;
 }
